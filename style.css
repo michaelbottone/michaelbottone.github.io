@@ -68,6 +68,7 @@ header > div > li {
 }
 .about-pic {
   width: 300px;
+  border-radius: 50%;
 }
 .about-blurb {
   width: 400px;
