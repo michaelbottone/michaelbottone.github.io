@@ -8,5 +8,9 @@
 
 
 body{
-  background: var(greyBlue);
+  background-color: var(--greyBlue);
+}
+
+h1{
+  color: var(--red);
 }
