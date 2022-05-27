@@ -29,6 +29,6 @@ header>div>li{
 }
 
 .cover{
-  background: url(/cover.jpg)
+  background: url(files/cover.jpg)
   object-fit cover;
 }
