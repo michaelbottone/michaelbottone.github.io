@@ -33,6 +33,13 @@ header > div > li {
   color: #fff;
   background-color: #2b0c52;
 }
+.resume {
+  color: #fff;
+  text-decoration: none;
+}
+.resume:hover {
+  color: #fff;
+}
 .cover {
   background: url('files/cover.jpg');
   object-fit: cover;
