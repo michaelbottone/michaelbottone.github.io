@@ -62,9 +62,9 @@ header > div > li {
   text-align: center;
 }
 #about {
-  background-color: #000;
+  background-color: rgb(47, 36, 48);
   color: #fff;
-  gap: 20%;
+  gap: 10%;
 }
 .about-pic {
   width: 30%;
