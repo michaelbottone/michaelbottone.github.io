@@ -17,12 +17,6 @@
   text-decoration: none;
 }
 
-.cover {
-  background: url('files/cover.jpg');
-  object-fit: cover;
-  object-position: center bottom;
-  min-height: 400px;
-}
 .name-header {
   color: #fff;
   font-size: 10vw;
@@ -122,5 +116,14 @@
 @media only screen and (max-width: 600px) {
   .cover {
     background-color: red;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  .cover {
+    background: url('files/cover.jpg');
+    object-fit: cover;
+    object-position: center;
+    min-height: 400px;
   }
 }
