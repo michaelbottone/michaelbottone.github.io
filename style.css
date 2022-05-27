@@ -25,7 +25,10 @@ header > div > li {
   font-weight: 600;
   font-size: 2.3rem;
 }
-
+.icons > i {
+  font-size: 4rem;
+  text-align: center;
+}
 .cover {
   background: url('files/cover.jpg');
   object-fit: cover;
