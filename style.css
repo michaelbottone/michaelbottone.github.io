@@ -58,6 +58,10 @@ header > div > li {
   font-size: 3vw;
   text-align: center;
 }
+#about {
+  background-color: #000;
+  color: #fff;
+}
 
 @media only screen and (max-width: 600px) {
   .cover {
