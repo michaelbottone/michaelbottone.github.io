@@ -115,7 +115,10 @@
 
 @media only screen and (max-width: 600px) {
   .cover {
-    background-color: red;
+    background: url('files/cover.jpg');
+    object-fit: cover;
+    object-position: center;
+    min-height: 300px;
   }
 }
 
