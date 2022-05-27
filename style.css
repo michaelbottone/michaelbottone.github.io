@@ -121,8 +121,7 @@
 
 @media only screen and (max-width: 600px) {
   .cover {
-    width: 100%;
-    object-position: center;
+    object-position: center bottom;
     object-fit: cover;
   }
 }
