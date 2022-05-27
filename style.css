@@ -25,7 +25,9 @@ header > div > li {
   font-weight: 600;
   font-size: 2.3rem;
 }
-
+.resume {
+  width: 100vw;
+}
 .cover {
   background: url('files/cover.jpg');
   object-fit: cover;
