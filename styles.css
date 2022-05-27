@@ -14,3 +14,13 @@ body{
 h1{
   color: var(--red);
 }
+
+header{
+  background-color: var(--blue);
+  width:100%;
+}
+
+header>div>li{
+  list-style-type: none;
+  color: var(--red);
+}
