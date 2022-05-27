@@ -116,7 +116,7 @@
 @media only screen and (max-width: 600px) {
   .cover {
     background: url('files/cover.jpg');
-    width: 100%
+    width: 100%;
     object-fit: cover;
     object-position: center;
     min-height: 300px;
