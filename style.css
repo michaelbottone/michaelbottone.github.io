@@ -35,8 +35,8 @@
   text-align: center;
 }
 #about {
-  background-color: hwb(279 0% 62%);
-  color: #fff;
+  background-color: hwb(278 81% 4%);
+  color: rgb(48, 4, 62);
   gap: 10%;
 }
 .about-pic {
@@ -48,7 +48,7 @@
   text-align: center;
 }
 .about-blurb > h2 {
-  color: #fff;
+  color: rgb(48, 4, 62);
   font-size: 4vw;
   font-family: 'Londrina Shadow', sans-serif;
 }
