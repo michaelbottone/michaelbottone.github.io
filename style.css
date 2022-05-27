@@ -29,6 +29,10 @@ header > div > li {
   font-size: 4rem;
   text-align: center;
 }
+.nav-section {
+  color: #fff;
+  background-color: #301b4a;
+}
 .cover {
   background: url('files/cover.jpg');
   object-fit: cover;
