@@ -35,6 +35,14 @@ header > div > li {
   color: #fff;
   background-color: #2b0c52;
 }
+.about-blurb {
+  flex-grow: 2;
+}
+
+.about-pic {
+  flex-grow: 1;
+}
+
 .resume {
   color: #fff;
   text-decoration: none;
