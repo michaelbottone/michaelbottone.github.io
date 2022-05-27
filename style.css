@@ -67,10 +67,10 @@ header > div > li {
   gap: 20%;
 }
 .about-pic {
-  flex: 1 1 1;
+  width: 300px;
 }
 .about-blurb {
-  flex: 1 1 1;
+  width: 400px;
 }
 
 @media only screen and (max-width: 600px) {
