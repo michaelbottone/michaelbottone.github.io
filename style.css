@@ -33,3 +33,12 @@ header>div>li{
   object-fit: cover;
   min-height: 400px;
 }
+
+
+@media only screen and (max-width: 600px){
+  .cover{
+    width:100%;
+    object-position: center;
+    object-fit: cover;
+  }
+}
