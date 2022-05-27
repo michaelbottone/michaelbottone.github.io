@@ -1,4 +1,12 @@
+:root{
+ --greyBlue: #727D8C;
+ --brown: #594045;
+ --red: #BF4B60;
+ --lightGrey: #B8BBBF;
+ --blue: #3E4C59;
+}
+
+
 body{
-  background: #000;
-  
+  background: var(greyBlue);
 }
