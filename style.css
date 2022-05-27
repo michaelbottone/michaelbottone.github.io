@@ -25,7 +25,7 @@
 .name-header {
   color: #fff;
   font-size: 10vw;
-  font-family: 'Londrina Shadow', cursive;
+  font-family: 'Londrina Shadow', sans-serif;
 }
 
 .hero-subheading {
@@ -50,7 +50,7 @@
 .about-blurb > h2 {
   color: #fff;
   font-size: 4vw;
-  font-family: 'Londrina Shadow', cursive;
+  font-family: 'Londrina Shadow', sans-serif;
 }
 
 .popup {
