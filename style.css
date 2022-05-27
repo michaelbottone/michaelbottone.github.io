@@ -31,14 +31,19 @@ header>div>li{
 .cover{
   background: url("files/cover.jpg");
   object-fit: cover;
+  object-position: center; 
   min-height: 400px;
 }
-
+.name-header{
+  color: #fff;
+}
 
 @media only screen and (max-width: 600px){
+
   .cover{
     width:100%;
     object-position: center;
     object-fit: cover;
   }
+
 }
