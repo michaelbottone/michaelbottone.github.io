@@ -38,6 +38,7 @@
   background-color: hwb(278 81% 4%);
   color: rgb(48, 4, 62);
   gap: 10%;
+  padding-top: 10px;
 }
 .about-pic {
   width: 30%;
