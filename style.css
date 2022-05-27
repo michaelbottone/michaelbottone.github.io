@@ -36,8 +36,14 @@ header>div>li{
 }
 .name-header{
   color: #fff;
-  font-size: 8rem;
+  font-size: 10vw;
   font-family: 'Londrina Shadow', cursive;
+}
+
+.hero-subheading{
+  font-family: 'PT Sans', sans-serif;
+  color: #fff;
+  font-size: 6vw;
 }
 
 @media only screen and (max-width: 600px){
