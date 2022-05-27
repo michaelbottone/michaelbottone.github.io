@@ -19,7 +19,7 @@
 .cover {
   background: url('files/cover.jpg');
   object-fit: cover;
-  object-position: center;
+  object-position: center bottom;
   min-height: 400px;
 }
 .name-header {
