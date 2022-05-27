@@ -28,8 +28,6 @@ header > div > li {
 .icons > i {
   font-size: 4rem;
   text-align: center;
-  color: #fff;
-  text-decoration: none;
 }
 .nav-section {
   color: #fff;
@@ -38,14 +36,12 @@ header > div > li {
 .about-blurb {
   flex-grow: 2;
 }
-
-.about-pic {
-  flex-grow: 1;
-}
-
-.resume {
+.nav-section > a {
   color: #fff;
   text-decoration: none;
+}
+.about-pic {
+  flex-grow: 1;
 }
 
 .cover {
