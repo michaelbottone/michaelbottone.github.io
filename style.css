@@ -28,6 +28,8 @@ header > div > li {
 .icons > i {
   font-size: 4rem;
   text-align: center;
+  color: #fff;
+  text-decoration: none;
 }
 .nav-section {
   color: #fff;
@@ -37,9 +39,7 @@ header > div > li {
   color: #fff;
   text-decoration: none;
 }
-.resume:hover {
-  color: #fff;
-}
+
 .cover {
   background: url('files/cover.jpg');
   object-fit: cover;
