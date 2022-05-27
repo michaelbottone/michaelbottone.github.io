@@ -31,4 +31,5 @@ header>div>li{
 .cover{
   background: url("files/cover.jpg");
   object-fit: cover;
+  min-height: 400px;
 }
