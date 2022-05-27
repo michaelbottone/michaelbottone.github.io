@@ -8,7 +8,7 @@
 
 
 body{
-  background-color: var(--greyBlue);
+  background-color: var(--greyBlue) !important;
 }
 
 h1{
@@ -23,4 +23,6 @@ header{
 header>div>li{
   list-style-type: none;
   color: var(--red);
+  font-weight:600;
+  font-size: 2.3rem;
 }
