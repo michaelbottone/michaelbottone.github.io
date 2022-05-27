@@ -42,12 +42,6 @@ header > div > li {
   color: #fff;
   text-decoration: none;
 }
-.about-pic {
-  flex-grow: 1;
-}
-.about-blurb {
-  flex-grow: 2;
-}
 
 .cover {
   background: url('files/cover.jpg');
@@ -71,6 +65,12 @@ header > div > li {
   background-color: #000;
   color: #fff;
   gap: 20%;
+}
+.about-pic {
+  flex: 1 1 1;
+}
+.about-blurb {
+  flex: 1 1 1;
 }
 
 @media only screen and (max-width: 600px) {
