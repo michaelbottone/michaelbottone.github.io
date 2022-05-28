@@ -11,6 +11,7 @@ body {
 .nav-section {
   color: #fff;
   background-color: #2b0c52;
+  width: 100%;
 }
 
 .nav-section > a {
@@ -40,6 +41,7 @@ body {
   color: rgb(48, 4, 62);
   gap: 10%;
   padding-top: 10px;
+  width: 100%;
 }
 .about-pic {
   width: 30%;
@@ -131,7 +133,7 @@ body {
 @media only screen and (min-width: 601px) {
   .cover {
     background: url('files/cover.jpg');
-    object-fit: cover;
+    object-fit: contain;
     object-position: center;
     min-height: 400px;
   }
