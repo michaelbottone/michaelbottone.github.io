@@ -1,9 +1,6 @@
-html,
 body {
   width: 100%;
-  overflow-x: hidden;
 }
-
 .icons > i {
   font-size: 4rem;
   text-align: center;
